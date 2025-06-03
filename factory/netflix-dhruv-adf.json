@@ -1,0 +1,9 @@
+{
+	"name": "netflix-dhruv-adf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "58552ead-ab1a-43a2-8c86-a358ff2d351d",
+		"tenantId": "aee78acd-deae-454a-a452-356e3f5c3fc5"
+	}
+}
